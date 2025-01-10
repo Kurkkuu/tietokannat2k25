@@ -1,0 +1,2 @@
+# tietokannat2k25
+Tietokantojen palautuslaatikko
